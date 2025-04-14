@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnDatePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pilih Tanggal" />
+
+    <TextView
+        android:id="@+id/tvSelectedDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="Tanggal yang dipilih: " />
+
+    <Button
+        android:id="@+id/btnTimePicker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pilih Waktu" />
+
+    <TextView
+        android:id="@+id/tvSelectedTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="Waktu yang dipilih: " />
+
+    <Button
+        android:id="@+id/btnShowAlert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tampilkan Alert" />
+
+</LinearLayout>
