@@ -1,5 +1,6 @@
 # inputControl
 1. Apa itu Input Control?
+
 Input Control adalah komponen antarmuka (UI) yang memungkinkan pengguna untuk memberikan input ke aplikasi. Dapat berupa teks, pilihan, tanggal, tombol, dan lain-lain.
 Di Android Native, input control biasanya disediakan oleh View yang ada di XML layout dan dihubungkan lewat kode Kotlin.
 
