@@ -4,12 +4,12 @@ Input Control adalah komponen antarmuka (UI) yang memungkinkan pengguna untuk me
 Di Android Native, input control biasanya disediakan oleh View yang ada di XML layout dan dihubungkan lewat kode Kotlin.
 
 2. Jenis-Jenis Input Control
-   a. EditText
-   b. Button
-   c. CheckBox
-   d. RadioButton dan RadioGroup
-   e. Spinner(Dropdown)
-   f. Switch & ToggleButton
+- EditText
+- Button
+- CheckBox
+- RadioButton dan RadioGroup
+- Spinner(Dropdown)
+- Switch & ToggleButton
 
 3. Tujuan Input Control
 - Memungkinkan pengguna memasukkan data atau informasi ke dalam aplikasi.
