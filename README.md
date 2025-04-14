@@ -1,9 +1,9 @@
 # Hasil Implementasi
 1. Date Time Picker
-Date Time Picker ditambahkan sehingga memungkinkan pengguna untuk memilih tanggal dan waktu sesuai kebutuhan.
+- Date Time Picker ditambahkan sehingga memungkinkan pengguna untuk memilih tanggal dan waktu sesuai kebutuhan.
 
 2. Alert (Toast)
-Alert ditambahkan dengan tujuan untuk memberikan pesan atau informasi singkat kepada pengguna.
+- Alert ditambahkan dengan tujuan untuk memberikan pesan atau informasi singkat kepada pengguna.
 
 # Input Control
 1. Apa itu Input Control?
